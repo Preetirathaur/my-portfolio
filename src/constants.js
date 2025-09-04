@@ -27,7 +27,7 @@ import ProdigiInfotech from './assets/company_logo/ProdigiInfotech.jpeg';
 
 
 // Education Section Logo's
-import InvertisLogo from './assets/education_logo/InvertisLogo.jpeg';
+import InvertisLogo from './assets/education_logo/Invertislogo.jpeg';
 import GtiLogo from './assets/education_logo/GtiLogo.jpeg';
 import svmiLogo from './assets/education_logo/svmiLogo.jpeg';
 import JICLogo from './assets/education_logo/JICLogo.jpeg';
